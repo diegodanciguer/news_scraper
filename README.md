@@ -2,11 +2,11 @@
 
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-Este projeto é um Leitor de Notícias desenvolvido em Python utilizando Web Scraping. O objetivo é coletar as manchetes de notícias de sites específicos e exibi-las no terminal, além de salvar as manchetes em um arquivo de texto.
+Este projeto é um Leitor de Notícias desenvolvido em Python utilizando Web Scraping. Ele permite coletar manchetes de notícias de múltiplos sites, como BBC e G1, e exibi-las no terminal, além de salvá-las em um arquivo de texto.
 
 ## Funcionalidades
 
-- Coleta manchetes de notícias de sites específicos.
+- Coleta manchetes de notícias de sites específicos (atualmente suportando BBC e G1).
 - Exibe as manchetes no terminal.
 - Salva as manchetes em um arquivo de texto (`.txt`).
 
